@@ -1,19 +1,19 @@
-#Lab7: Length Converter
+# Lab7 Length Converter
 
 This application use to convert length of some unit to other unit that user select.
 
-##Length
+## Length
 
 Enum that contain unit of length
 
-##ConverterController
+## ConverterController
 
 Class that use to control and link with ConverterUI .
 
-##Main
+## Main
 
 Main class that launch this application.
 
-##test
+## test
 
 Class that use to test Length enum  work or not.
